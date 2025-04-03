@@ -1,0 +1,25 @@
+/* ...existing code... */
+
+.row.justify-content-center {
+    margin: 20px auto;
+}
+
+.card {
+    width: 18rem;
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+}
+
+.footer-text {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: #f8f9fa;
+    padding: 10px;
+}
+
+/* ...existing code... */
